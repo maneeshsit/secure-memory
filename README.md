@@ -4,6 +4,8 @@ A proof-of-concept for a privacy-preserving AI memory system where vector memori
 pip install tenseal numpy sentence-transformers
 # run the code
 python secure_memory.py
+# run the code
 python example.py
+# Display the Output
 <img width="442" height="72" alt="image" src="https://github.com/user-attachments/assets/c21a112a-ea9e-4159-901b-9c595809339e" />
 
